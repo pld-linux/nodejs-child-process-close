@@ -5,9 +5,9 @@ Version:	0.1.1
 Release:	1
 License:	MIT
 Group:		Development/Libraries
-URL:		https://github.com/piscisaureus/child-process-close
 Source0:	http://registry.npmjs.org/%{pkg}/-/%{pkg}-%{version}.tgz
 # Source0-md5:	873271c55c02f4745aa0ef36ac119c44
+URL:		https://github.com/piscisaureus/child-process-close
 BuildRequires:	rpmbuild(macros) >= 1.634
 Requires:	nodejs
 BuildArch:	noarch
